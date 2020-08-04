@@ -9,7 +9,7 @@ it('This is first test',function()
 
 p.get('http://juliemr.github.io/protractor-demo');
 
-browser.sleep(5000)
+browser.sleep(3000)
 
 //element(by.model('first')).sendKeys('23')
 
